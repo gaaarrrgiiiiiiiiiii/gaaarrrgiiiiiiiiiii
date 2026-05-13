@@ -233,7 +233,7 @@ Multi-tenant API gateway with Redis caching, dynamic upstream failover, per-tena
 <td width="50%">
 
 🔗 &nbsp;**linkedin**
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[gargi-thapa](https://linkedin.com/in/gargi-thapa)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[gargi-thapa](https://www.linkedin.com/in/gargi-thapa-089767294/)
 
 </td>
 </tr>
