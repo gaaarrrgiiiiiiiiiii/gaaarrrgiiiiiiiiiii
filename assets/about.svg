@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1b26"/>
+      <stop offset="100%" style="stop-color:#16161e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Terminal window -->
+  <rect x="20" y="10" width="760" height="400" rx="12" fill="url(#termBg)" stroke="#2a2e3f" stroke-width="1.5"/>
+  
+  <!-- Title bar -->
+  <rect x="20" y="10" width="760" height="40" rx="12" fill="#1e2030"/>
+  <rect x="20" y="38" width="760" height="12" fill="#1e2030"/>
+  
+  <!-- Traffic lights -->
+  <circle cx="48" cy="30" r="7" fill="#ff5f57"/>
+  <circle cx="72" cy="30" r="7" fill="#febc2e"/>
+  <circle cx="96" cy="30" r="7" fill="#28c840"/>
+  
+  <!-- File name -->
+  <text x="720" y="35" text-anchor="end" font-family="'Courier New', monospace" font-size="12" fill="#565f89">~/gargi/about.py</text>
+  
+  <!-- Terminal content -->
+  <text x="45" y="80" font-family="'Courier New', monospace" font-size="13.5" fill="#565f89">$ python3 <tspan fill="#c0caf5" font-weight="bold">about.py</tspan></text>
+  
+  <!-- Separator line -->
+  <text x="45" y="110" font-family="'Courier New', monospace" font-size="13" fill="#3b4261"># ——————————————————————————————————————</text>
+  
+  <!-- Python dict -->
+  <text x="45" y="140" font-family="'Courier New', monospace" font-size="13.5">
+    <tspan fill="#bb9af7">gargi</tspan><tspan fill="#c0caf5"> = {</tspan>
+  </text>
+  
+  <text x="75" y="168" font-family="'Courier New', monospace" font-size="13.5">
+    <tspan fill="#73daca">"role"</tspan><tspan fill="#c0caf5"> : [</tspan><tspan fill="#9ece6a">"AI Engineer"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Backend Engineer"</tspan><tspan fill="#c0caf5">],</tspan>
+  </text>
+  
+  <text x="75" y="196" font-family="'Courier New', monospace" font-size="13.5">
+    <tspan fill="#73daca">"education"</tspan><tspan fill="#c0caf5"> : </tspan><tspan fill="#9ece6a">"B.Tech CSE @ SRM IST | SGPA: 9.54/10"</tspan><tspan fill="#c0caf5">,</tspan>
+  </text>
+  
+  <text x="75" y="224" font-family="'Courier New', monospace" font-size="13.5">
+    <tspan fill="#73daca">"graduating"</tspan><tspan fill="#c0caf5"> : </tspan><tspan fill="#e0af68">"May 2027"</tspan><tspan fill="#c0caf5">,</tspan>
+  </text>
+  
+  <text x="75" y="252" font-family="'Courier New', monospace" font-size="13.5">
+    <tspan fill="#73daca">"focus"</tspan><tspan fill="#c0caf5"> : [</tspan><tspan fill="#9ece6a">"RAG Systems"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"LLM Pipelines"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Distributed APIs"</tspan><tspan fill="#c0caf5">],</tspan>
+  </text>
+  
+  <text x="75" y="280" font-family="'Courier New', monospace" font-size="13.5">
+    <tspan fill="#73daca">"certs"</tspan><tspan fill="#c0caf5"> : [</tspan><tspan fill="#9ece6a">"AWS AI Practitioner"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"AWS Cloud Practitioner"</tspan><tspan fill="#c0caf5">],</tspan>
+  </text>
+  
+  <text x="75" y="308" font-family="'Courier New', monospace" font-size="13.5">
+    <tspan fill="#73daca">"status"</tspan><tspan fill="#c0caf5"> : </tspan><tspan fill="#9ece6a">"Open to internships &amp; full-time </tspan><tspan fill="#28c840">●</tspan><tspan fill="#9ece6a">"</tspan><tspan fill="#c0caf5">,</tspan>
+  </text>
+  
+  <text x="45" y="336" font-family="'Courier New', monospace" font-size="13.5" fill="#c0caf5">}</text>
+  
+  <!-- Separator -->
+  <text x="45" y="362" font-family="'Courier New', monospace" font-size="13" fill="#3b4261"># ——————————————————————————————————————</text>
+  
+  <!-- Highlights -->
+  <text x="45" y="392" font-family="'Courier New', monospace" font-size="12.5">
+    <tspan fill="#f7768e">❯❯❯</tspan><tspan fill="#a9b1d6"> Building systems that are </tspan><tspan fill="#7aa2f7" font-weight="bold">intelligent</tspan><tspan fill="#a9b1d6"> and </tspan><tspan fill="#9ece6a" font-weight="bold">production-ready</tspan><tspan fill="#a9b1d6">.</tspan>
+  </text>
+</svg>
