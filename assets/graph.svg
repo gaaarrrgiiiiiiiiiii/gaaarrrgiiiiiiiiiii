@@ -151,10 +151,10 @@
       <animate attributeName="y" from="150" to="100.0" begin="0.56s" dur="0.4s" fill="freeze"/>
       <animate attributeName="height" from="0" to="50.0" begin="0.56s" dur="0.4s" fill="freeze"/>
     </rect>
-    <rect x="707" y="125.0" width="18" height="25.0" rx="3" fill="#0e4429" opacity="0">
+    <rect x="707" y="112.5" width="18" height="37.5" rx="3" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.58s" dur="0.3s" fill="freeze"/>
-      <animate attributeName="y" from="150" to="125.0" begin="0.58s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="height" from="0" to="25.0" begin="0.58s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="y" from="150" to="112.5" begin="0.58s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="height" from="0" to="37.5" begin="0.58s" dur="0.4s" fill="freeze"/>
     </rect>
 
   <!-- Labels -->
