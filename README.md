@@ -62,58 +62,9 @@
 
 <h3><code>// TECH.STACK</code></h3>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**AI & ML**
-
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-1e293b?style=flat-square&logo=databricks&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-1e293b?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-3b82f6?style=flat-square&logo=meta&logoColor=white)
-![LLM Pipelines](https://img.shields.io/badge/LLM_Pipelines-1e293b?style=flat-square&logo=langchain&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector_Search-1e293b?style=flat-square&logo=elasticsearch&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-22c55e?style=flat-square&logo=huggingface&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-f97316?style=flat-square&logo=flask&logoColor=white)
-![async Python](https://img.shields.io/badge/async_Python-eab308?style=flat-square&logo=python&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-3b82f6?style=flat-square&logo=socketdotio&logoColor=white)
-![JWT / OAuth2](https://img.shields.io/badge/JWT_/_OAuth2-1e293b?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-1e293b?style=flat-square&logo=cloudflare&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**Databases & Cache**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-22c55e?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-22c55e?style=flat-square&logo=redis&logoColor=white)
-![Redis Streams](https://img.shields.io/badge/Redis_Streams-22c55e?style=flat-square&logo=redis&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-f97316?style=flat-square&logo=docker&logoColor=white)
-![AWS EC2/S3](https://img.shields.io/badge/AWS_EC2/S3-f97316?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3b82f6?style=flat-square&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-1e293b?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-f97316?style=flat-square&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-22c55e?style=flat-square&logo=linux&logoColor=white)
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="assets/tech_stack.svg?v=1" alt="Tech Stack" width="800"/>
+</div>
 
 ---
 
@@ -121,40 +72,9 @@
 
 <h3><code>// EXPERIENCE.LOG</code></h3>
 
-<table>
-<tr>
-<td>
-
-**AI Infrastructure Engineer Intern** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Dec 2025 – Jan 2026`
-<br/><sub>DappaSol</sub>
-
-- FastAPI + FAISS + OpenAI Embeddings — 89% retrieval precision@5 across 500K+ indexed docs
-- Async ingestion pipeline with per-tenant namespace isolation; sub-800ms P95 for NY enterprise client
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Software Engineering Intern** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Jun – Aug 2025`
-<br/><sub>Ericsson</sub>
-
-- Concurrent Python ETL pipelines — 40% reduction in manual ingestion overhead
-- Modular Flask microservices with structured logging across 3+ backend service modules
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Bridge Trainee — Fintech Backend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Mar 2026`
-<br/><sub>Citi</sub>
-
-- Enterprise fintech systems, secure dev practices & AI in financial services
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="assets/experience.svg?v=1" alt="Experience Log" width="800"/>
+</div>
 
 ---
 
@@ -162,36 +82,11 @@
 
 <h3><code>// PROJECTS</code></h3>
 
-<table>
-<tr>
-<td width="50%">
-
-### ⚙ [AegisFlow](https://github.com/gaaarrrgiiiiiiiiiii/AegisFlow)
-
-`FastAPI` · `Redis Streams` · `PostgreSQL` · `Docker` · `AWS`
-
-Distributed async task orchestration engine. Exactly-once execution, circuit breakers, exponential-backoff DLQ, JWT-authenticated multi-tenant REST API.
-
-![2400+ tasks/min](https://img.shields.io/badge/2400+_tasks/min-22c55e?style=flat-square)
-![P95 22ms](https://img.shields.io/badge/P95_22ms-22c55e?style=flat-square)
-![50 workers](https://img.shields.io/badge/50_workers-22c55e?style=flat-square)
-
-</td>
-<td width="50%">
-
-### 🛡 [CortexGate](https://github.com/gaaarrrgiiiiiiiiiii/CortexGate)
-
-`FastAPI` · `Redis` · `PostgreSQL` · `JWT` · `Docker` · `AWS`
-
-Multi-tenant API gateway with Redis caching, dynamic upstream failover, per-tenant rate limiting, usage metering, and circuit breakers under fault injection.
-
-![99.9% uptime](https://img.shields.io/badge/99.9%25_uptime-22c55e?style=flat-square)
-![38% cache wins](https://img.shields.io/badge/38%25_cache_wins-22c55e?style=flat-square)
-![31% latency cut](https://img.shields.io/badge/31%25_latency_cut-22c55e?style=flat-square)
-
-</td>
-</tr>
-</table>
+<div align="center">
+<a href="https://github.com/gaaarrrgiiiiiiiiiii?tab=repositories">
+<img src="assets/projects.svg?v=1" alt="Projects" width="800"/>
+</a>
+</div>
 
 ---
 
@@ -199,22 +94,9 @@ Multi-tenant API gateway with Redis caching, dynamic upstream failover, per-tena
 
 <h3><code>// CERTIFICATIONS</code></h3>
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-🏅 **AWS Certified AI Practitioner**
-<br/><sub>Amazon Web Services · 2026</sub>
-
-</td>
-<td width="50%" align="center">
-
-🏅 **AWS Certified Cloud Practitioner**
-<br/><sub>Amazon Web Services · 2026</sub>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="assets/certifications.svg?v=1" alt="Certifications" width="800"/>
+</div>
 
 ---
 
@@ -222,22 +104,11 @@ Multi-tenant API gateway with Redis caching, dynamic upstream failover, per-tena
 
 <h3><code>// CONNECT</code></h3>
 
-<table>
-<tr>
-<td width="50%">
-
-📧 &nbsp;**email**
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[gargith24@gmail.com](mailto:gargith24@gmail.com)
-
-</td>
-<td width="50%">
-
-🔗 &nbsp;**linkedin**
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[gargi-thapa](https://www.linkedin.com/in/gargi-thapa-089767294/)
-
-</td>
-</tr>
-</table>
+<div align="center">
+<a href="https://www.linkedin.com/in/gargi-thapa-089767294/">
+<img src="assets/connect.svg?v=1" alt="Connect" width="800"/>
+</a>
+</div>
 
 ---
 

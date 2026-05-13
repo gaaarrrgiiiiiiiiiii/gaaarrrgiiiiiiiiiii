@@ -2,7 +2,7 @@
   <style>
     @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
     @keyframes countUp { from { opacity: 0; } to { opacity: 1; } }
-    @keyframes ringDraw { from { stroke-dashoffset: 238.76104167282426; } to { stroke-dashoffset: 204.65232143384938; } }
+    @keyframes ringDraw { from { stroke-dashoffset: 238.76104167282426; } to { stroke-dashoffset: 187.59796131436192; } }
     .card { animation: fadeIn 0.6s ease-out; }
     .num { animation: countUp 0.8s ease-out 0.3s both; }
     .ring { animation: ringDraw 1.2s ease-out 0.5s both; }
@@ -10,17 +10,12 @@
   
   <rect width="800" height="160" rx="10" fill="#0f1117"/>
   
-  <!-- Mac Window Dots -->
-  <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
-  <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
-  <circle cx="60" cy="20" r="6" fill="#27c93f"/>
-
   <!-- Total Contributions -->
   <g class="card">
     <rect x="20" y="15" width="230" height="130" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-    <text x="135" y="70" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="36" font-weight="700" fill="#58a6ff" class="num">295</text>
+    <text x="135" y="70" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="36" font-weight="700" fill="#58a6ff" class="num">193</text>
     <text x="135" y="95" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" fill="#c9d1d9" font-weight="600">Total Contributions</text>
-    <text x="135" y="115" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">May 13, 2025 – Present</text>
+    <text x="135" y="115" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">May 11, 2025 – Present</text>
   </g>
   
   <!-- Current Streak (center with ring) -->
@@ -30,11 +25,11 @@
     <circle cx="100" cy="55" r="38" fill="none" stroke="#21262d" stroke-width="4"/>
     <!-- Ring progress -->
     <circle cx="100" cy="55" r="38" fill="none" stroke="#3fb950" stroke-width="4"
-            stroke-dasharray="34.10872023897489 204.65232143384938" stroke-linecap="round"
+            stroke-dasharray="51.16308035846234 187.59796131436192" stroke-linecap="round"
             transform="rotate(-90, 100, 55)" class="ring"/>
-    <text x="100" y="62" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="28" font-weight="700" fill="#3fb950" class="num">2</text>
+    <text x="100" y="62" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="28" font-weight="700" fill="#3fb950" class="num">3</text>
     <text x="100" y="108" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" fill="#c9d1d9" font-weight="600">Current Streak</text>
-    <text x="100" y="125" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">May 12 – May 13</text>
+    <text x="100" y="125" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">May 11 – May 13</text>
   </g>
   
   <!-- Longest Streak -->

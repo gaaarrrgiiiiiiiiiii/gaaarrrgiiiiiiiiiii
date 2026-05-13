@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="310" viewBox="0 0 800 310">
+  <rect width="800" height="310" rx="10" fill="#0f1117"/>
+  
+  <rect x="10" y="10" width="780" height="290" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  
+  <!-- DappaSol -->
+  <text x="30" y="45" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#c9d1d9">AI Infrastructure Engineer Intern</text>
+  <text x="770" y="45" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#8b949e">Dec 2025 – Jan 2026</text>
+  <text x="30" y="65" font-family="'Segoe UI', sans-serif" font-size="12" fill="#8b949e">DappaSol</text>
+  <circle cx="40" cy="85" r="3" fill="#58a6ff"/>
+  <text x="55" y="90" font-family="'Segoe UI', sans-serif" font-size="13" fill="#c9d1d9">FastAPI + FAISS + OpenAI Embeddings — 89% retrieval precision@5 across 500K+ indexed docs</text>
+  <circle cx="40" cy="110" r="3" fill="#58a6ff"/>
+  <text x="55" y="115" font-family="'Segoe UI', sans-serif" font-size="13" fill="#c9d1d9">Async ingestion pipeline with per-tenant namespace isolation; sub-800ms P95 for NY enterprise client</text>
+
+  <line x1="30" y1="135" x2="770" y2="135" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Ericsson -->
+  <text x="30" y="165" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#c9d1d9">Software Engineering Intern</text>
+  <text x="770" y="165" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#8b949e">Jun – Aug 2025</text>
+  <text x="30" y="185" font-family="'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Ericsson</text>
+  <circle cx="40" cy="205" r="3" fill="#3fb950"/>
+  <text x="55" y="210" font-family="'Segoe UI', sans-serif" font-size="13" fill="#c9d1d9">Concurrent Python ETL pipelines — 40% reduction in manual ingestion overhead</text>
+  <circle cx="40" cy="230" r="3" fill="#3fb950"/>
+  <text x="55" y="235" font-family="'Segoe UI', sans-serif" font-size="13" fill="#c9d1d9">Modular Flask microservices with structured logging across 3+ backend service modules</text>
+
+  <line x1="30" y1="255" x2="770" y2="255" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Citi -->
+  <text x="30" y="285" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#c9d1d9">Bridge Trainee — Fintech Backend</text>
+  <text x="770" y="285" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#8b949e">Mar 2026</text>
+  <circle cx="40" cy="305" r="3" fill="{ORANGE}"/><text x="55" y="310" font-family="'Segoe UI', sans-serif" font-size="13" fill="{TEXT}">Enterprise fintech systems, secure dev practices &amp; AI in financial services</text>
+  <text x="30" y="305" display="none" font-family="'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Citi</text>
+</svg>

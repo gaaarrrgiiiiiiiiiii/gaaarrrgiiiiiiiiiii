@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="90" viewBox="0 0 800 90">
+  <rect width="800" height="90" rx="10" fill="#0f1117"/>
+  
+  <g class="card" transform="translate(10, 10)">
+    <rect width="385" height="70" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+    <text x="30" y="30" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="700" fill="#c9d1d9">📧 email</text>
+    <text x="30" y="55" font-family="'Segoe UI', sans-serif" font-size="13" fill="#58a6ff">gargith24@gmail.com</text>
+  </g>
+
+  <g class="card" transform="translate(405, 10)">
+    <rect width="385" height="70" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+    <text x="30" y="30" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="700" fill="#c9d1d9">🔗 linkedin</text>
+    <text x="30" y="55" font-family="'Segoe UI', sans-serif" font-size="13" fill="#58a6ff">linkedin.com/in/gargi-thapa-089767294</text>
+  </g>
+</svg>

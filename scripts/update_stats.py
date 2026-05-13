@@ -226,11 +226,6 @@ def render_stats_svg(total, current, current_range, longest, longest_range, firs
   
   <rect width="800" height="160" rx="10" fill="{BG}"/>
   
-  <!-- Mac Window Dots -->
-  <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
-  <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
-  <circle cx="60" cy="20" r="6" fill="#27c93f"/>
-
   <!-- Total Contributions -->
   <g class="card">
     <rect x="20" y="15" width="230" height="130" rx="8" fill="{CARD_BG}" stroke="{BORDER}" stroke-width="1"/>
@@ -312,13 +307,8 @@ def render_graph_svg(days_30: list[dict]):
   <rect width="{svg_w}" height="{svg_h}" rx="10" fill="{BG}"/>
   <rect x="10" y="10" width="{svg_w - 20}" height="{svg_h - 20}" rx="8" fill="{CARD_BG}" stroke="{BORDER}" stroke-width="1"/>
   
-  <!-- Mac Window Dots -->
-  <circle cx="30" cy="30" r="6" fill="#ff5f56"/>
-  <circle cx="50" cy="30" r="6" fill="#ffbd2e"/>
-  <circle cx="70" cy="30" r="6" fill="#27c93f"/>
-
   <!-- Title -->
-  <text x="90" y="34" font-family="'Courier New', monospace" font-size="12" fill="{DIM}" letter-spacing="2">// CONTRIBUTION GRAPH — LAST 30 DAYS</text>
+  <text x="30" y="34" font-family="'Courier New', monospace" font-size="12" fill="{DIM}" letter-spacing="2">// CONTRIBUTION GRAPH — LAST 30 DAYS</text>
   
   <!-- Bars -->
 {bars}
