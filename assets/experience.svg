@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="310" viewBox="0 0 800 310">
-  <rect width="800" height="310" rx="10" fill="#0f1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="350" viewBox="0 0 800 350">
+  <rect width="800" height="350" rx="10" fill="#0f1117"/>
   
-  <rect x="10" y="10" width="780" height="290" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="10" y="10" width="780" height="330" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
   
   <!-- DappaSol -->
   <text x="30" y="45" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#c9d1d9">AI Infrastructure Engineer Intern</text>
@@ -28,6 +28,7 @@
   <!-- Citi -->
   <text x="30" y="285" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#c9d1d9">Bridge Trainee — Fintech Backend</text>
   <text x="770" y="285" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#8b949e">Mar 2026</text>
-  <circle cx="40" cy="305" r="3" fill="{ORANGE}"/><text x="55" y="310" font-family="'Segoe UI', sans-serif" font-size="13" fill="{TEXT}">Enterprise fintech systems, secure dev practices &amp; AI in financial services</text>
-  <text x="30" y="305" display="none" font-family="'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Citi</text>
+  <text x="30" y="305" font-family="'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Citi</text>
+  <circle cx="40" cy="325" r="3" fill="#d29922"/>
+  <text x="55" y="330" font-family="'Segoe UI', sans-serif" font-size="13" fill="#c9d1d9">Enterprise fintech systems, secure dev practices &amp; AI in financial services</text>
 </svg>

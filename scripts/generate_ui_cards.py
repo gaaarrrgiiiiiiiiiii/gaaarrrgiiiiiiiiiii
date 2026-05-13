@@ -25,61 +25,61 @@ def badge(x, y, text, border_color, text_color):
     ''', width + 10
 
 def render_tech_stack():
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="800" height="230" viewBox="0 0 800 230">
-  <rect width="800" height="230" rx="10" fill="{BG}"/>
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260">
+  <rect width="800" height="260" rx="10" fill="{BG}"/>
   
   <!-- AI & ML -->
   <g class="card" transform="translate(10, 10)">
-    <rect width="385" height="100" rx="8" fill="{CARD_BG}" stroke="{BORDER}" stroke-width="1"/>
+    <rect width="385" height="115" rx="8" fill="{CARD_BG}" stroke="{BORDER}" stroke-width="1"/>
     <text x="20" y="30" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="700" fill="{TEXT}">AI &amp; ML</text>
-    {badge(20, 50, "RAG Systems", "#1f6feb", "#58a6ff")[0]}
-    {badge(125, 50, "OpenAI API", "#1f6feb", "#58a6ff")[0]}
-    {badge(220, 50, "FAISS", "#1f6feb", "#58a6ff")[0]}
-    {badge(20, 80, "LLM Pipelines", "#1f6feb", "#58a6ff")[0]}
-    {badge(135, 80, "Vector Search", "#1f6feb", "#58a6ff")[0]}
+    {badge(20, 45, "RAG Systems", "#1f6feb", "#58a6ff")[0]}
+    {badge(125, 45, "OpenAI API", "#1f6feb", "#58a6ff")[0]}
+    {badge(220, 45, "FAISS", "#1f6feb", "#58a6ff")[0]}
+    {badge(20, 75, "LLM Pipelines", "#1f6feb", "#58a6ff")[0]}
+    {badge(135, 75, "Vector Search", "#1f6feb", "#58a6ff")[0]}
   </g>
 
   <!-- Backend & APIs -->
   <g class="card" transform="translate(405, 10)">
-    <rect width="385" height="100" rx="8" fill="{CARD_BG}" stroke="{BORDER}" stroke-width="1"/>
+    <rect width="385" height="115" rx="8" fill="{CARD_BG}" stroke="{BORDER}" stroke-width="1"/>
     <text x="20" y="30" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="700" fill="{TEXT}">Backend &amp; APIs</text>
-    {badge(20, 50, "FastAPI", "#238636", "#3fb950")[0]}
-    {badge(100, 50, "Flask", "#238636", "#3fb950")[0]}
-    {badge(170, 50, "async Python", "#238636", "#3fb950")[0]}
-    {badge(20, 80, "WebSockets", "#238636", "#3fb950")[0]}
-    {badge(115, 80, "JWT / OAuth2", "#238636", "#3fb950")[0]}
+    {badge(20, 45, "FastAPI", "#238636", "#3fb950")[0]}
+    {badge(100, 45, "Flask", "#238636", "#3fb950")[0]}
+    {badge(170, 45, "async Python", "#238636", "#3fb950")[0]}
+    {badge(20, 75, "WebSockets", "#238636", "#3fb950")[0]}
+    {badge(115, 75, "JWT / OAuth2", "#238636", "#3fb950")[0]}
   </g>
 
   <!-- Databases & Cache -->
-  <g class="card" transform="translate(10, 120)">
-    <rect width="385" height="100" rx="8" fill="{CARD_BG}" stroke="{BORDER}" stroke-width="1"/>
+  <g class="card" transform="translate(10, 135)">
+    <rect width="385" height="115" rx="8" fill="{CARD_BG}" stroke="{BORDER}" stroke-width="1"/>
     <text x="20" y="30" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="700" fill="{TEXT}">Databases &amp; Cache</text>
-    {badge(20, 50, "PostgreSQL", "#8957e5", "#bc8cff")[0]}
-    {badge(115, 50, "Redis", "#8957e5", "#bc8cff")[0]}
-    {badge(180, 50, "Redis Streams", "#8957e5", "#bc8cff")[0]}
-    {badge(20, 80, "SQL", "#8957e5", "#bc8cff")[0]}
+    {badge(20, 45, "PostgreSQL", "#8957e5", "#bc8cff")[0]}
+    {badge(115, 45, "Redis", "#8957e5", "#bc8cff")[0]}
+    {badge(180, 45, "Redis Streams", "#8957e5", "#bc8cff")[0]}
+    {badge(20, 75, "SQL", "#8957e5", "#bc8cff")[0]}
   </g>
 
   <!-- Infrastructure -->
-  <g class="card" transform="translate(405, 120)">
-    <rect width="385" height="100" rx="8" fill="{CARD_BG}" stroke="{BORDER}" stroke-width="1"/>
+  <g class="card" transform="translate(405, 135)">
+    <rect width="385" height="115" rx="8" fill="{CARD_BG}" stroke="{BORDER}" stroke-width="1"/>
     <text x="20" y="30" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="700" fill="{TEXT}">Infrastructure</text>
-    {badge(20, 50, "Docker", "#9e6a03", "#d29922")[0]}
-    {badge(90, 50, "AWS EC2/S3", "#9e6a03", "#d29922")[0]}
-    {badge(185, 50, "GitHub Actions", "#9e6a03", "#d29922")[0]}
-    {badge(20, 80, "Prometheus", "#9e6a03", "#d29922")[0]}
-    {badge(115, 80, "Grafana", "#9e6a03", "#d29922")[0]}
-    {badge(190, 80, "Linux", "#9e6a03", "#d29922")[0]}
+    {badge(20, 45, "Docker", "#9e6a03", "#d29922")[0]}
+    {badge(90, 45, "AWS EC2/S3", "#9e6a03", "#d29922")[0]}
+    {badge(185, 45, "GitHub Actions", "#9e6a03", "#d29922")[0]}
+    {badge(20, 75, "Prometheus", "#9e6a03", "#d29922")[0]}
+    {badge(115, 75, "Grafana", "#9e6a03", "#d29922")[0]}
+    {badge(190, 75, "Linux", "#9e6a03", "#d29922")[0]}
   </g>
 </svg>'''
     with open(ASSETS / "tech_stack.svg", "w", encoding="utf-8") as f:
         f.write(svg)
 
 def render_experience():
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="800" height="310" viewBox="0 0 800 310">
-  <rect width="800" height="310" rx="10" fill="{BG}"/>
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="800" height="350" viewBox="0 0 800 350">
+  <rect width="800" height="350" rx="10" fill="{BG}"/>
   
-  <rect x="10" y="10" width="780" height="290" rx="8" fill="{CARD_BG}" stroke="{BORDER}" stroke-width="1"/>
+  <rect x="10" y="10" width="780" height="330" rx="8" fill="{CARD_BG}" stroke="{BORDER}" stroke-width="1"/>
   
   <!-- DappaSol -->
   <text x="30" y="45" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="{TEXT}">AI Infrastructure Engineer Intern</text>
@@ -107,9 +107,9 @@ def render_experience():
   <text x="30" y="285" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="{TEXT}">Bridge Trainee — Fintech Backend</text>
   <text x="770" y="285" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="{DIM}">Mar 2026</text>
   <text x="30" y="305" font-family="'Segoe UI', sans-serif" font-size="12" fill="{DIM}">Citi</text>
+  <circle cx="40" cy="325" r="3" fill="{ORANGE}"/>
+  <text x="55" y="330" font-family="'Segoe UI', sans-serif" font-size="13" fill="{TEXT}">Enterprise fintech systems, secure dev practices &amp; AI in financial services</text>
 </svg>'''
-    # Adjust heights to fit exactly
-    svg = svg.replace('<text x="30" y="305"', '<circle cx="40" cy="305" r="3" fill="{ORANGE}"/><text x="55" y="310" font-family="\'Segoe UI\', sans-serif" font-size="13" fill="{TEXT}">Enterprise fintech systems, secure dev practices &amp; AI in financial services</text>\n  <text x="30" y="305" display="none"')
     with open(ASSETS / "experience.svg", "w", encoding="utf-8") as f:
         f.write(svg)
 
