@@ -16,15 +16,15 @@
       <animate attributeName="y" from="150" to="113.63636363636363" begin="0.02s" dur="0.4s" fill="freeze"/>
       <animate attributeName="height" from="0" to="36.36363636363637" begin="0.02s" dur="0.4s" fill="freeze"/>
     </rect>
-    <rect x="86" y="113.63636363636363" width="18" height="36.36363636363637" rx="3" fill="#006d32" opacity="0">
+    <rect x="86" y="104.54545454545455" width="18" height="45.45454545454545" rx="3" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.04s" dur="0.3s" fill="freeze"/>
-      <animate attributeName="y" from="150" to="113.63636363636363" begin="0.04s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="height" from="0" to="36.36363636363637" begin="0.04s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="y" from="150" to="104.54545454545455" begin="0.04s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="height" from="0" to="45.45454545454545" begin="0.04s" dur="0.4s" fill="freeze"/>
     </rect>
-    <rect x="109" y="104.54545454545455" width="18" height="45.45454545454545" rx="3" fill="#006d32" opacity="0">
+    <rect x="109" y="113.63636363636363" width="18" height="36.36363636363637" rx="3" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.06s" dur="0.3s" fill="freeze"/>
-      <animate attributeName="y" from="150" to="104.54545454545455" begin="0.06s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="height" from="0" to="45.45454545454545" begin="0.06s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="y" from="150" to="113.63636363636363" begin="0.06s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="height" from="0" to="36.36363636363637" begin="0.06s" dur="0.4s" fill="freeze"/>
     </rect>
     <rect x="132" y="113.63636363636363" width="18" height="36.36363636363637" rx="3" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.08s" dur="0.3s" fill="freeze"/>
@@ -86,15 +86,15 @@
       <animate attributeName="y" from="150" to="113.63636363636363" begin="0.3s" dur="0.4s" fill="freeze"/>
       <animate attributeName="height" from="0" to="36.36363636363637" begin="0.3s" dur="0.4s" fill="freeze"/>
     </rect>
-    <rect x="408" y="113.63636363636363" width="18" height="36.36363636363637" rx="3" fill="#006d32" opacity="0">
+    <rect x="408" y="50.0" width="18" height="100.0" rx="3" fill="#39d353" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.3s" fill="freeze"/>
-      <animate attributeName="y" from="150" to="113.63636363636363" begin="0.32s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="height" from="0" to="36.36363636363637" begin="0.32s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="y" from="150" to="50.0" begin="0.32s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="height" from="0" to="100.0" begin="0.32s" dur="0.4s" fill="freeze"/>
     </rect>
-    <rect x="431" y="50.0" width="18" height="100.0" rx="3" fill="#39d353" opacity="0">
+    <rect x="431" y="104.54545454545455" width="18" height="45.45454545454545" rx="3" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.34s" dur="0.3s" fill="freeze"/>
-      <animate attributeName="y" from="150" to="50.0" begin="0.34s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="height" from="0" to="100.0" begin="0.34s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="y" from="150" to="104.54545454545455" begin="0.34s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="height" from="0" to="45.45454545454545" begin="0.34s" dur="0.4s" fill="freeze"/>
     </rect>
     <rect x="454" y="104.54545454545455" width="18" height="45.45454545454545" rx="3" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.3s" fill="freeze"/>
@@ -106,10 +106,10 @@
       <animate attributeName="y" from="150" to="104.54545454545455" begin="0.38s" dur="0.4s" fill="freeze"/>
       <animate attributeName="height" from="0" to="45.45454545454545" begin="0.38s" dur="0.4s" fill="freeze"/>
     </rect>
-    <rect x="500" y="104.54545454545455" width="18" height="45.45454545454545" rx="3" fill="#006d32" opacity="0">
+    <rect x="500" y="113.63636363636363" width="18" height="36.36363636363637" rx="3" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.3s" fill="freeze"/>
-      <animate attributeName="y" from="150" to="104.54545454545455" begin="0.4s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="height" from="0" to="45.45454545454545" begin="0.4s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="y" from="150" to="113.63636363636363" begin="0.4s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="height" from="0" to="36.36363636363637" begin="0.4s" dur="0.4s" fill="freeze"/>
     </rect>
     <rect x="523" y="113.63636363636363" width="18" height="36.36363636363637" rx="3" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.42s" dur="0.3s" fill="freeze"/>
@@ -151,24 +151,24 @@
       <animate attributeName="y" from="150" to="113.63636363636363" begin="0.56s" dur="0.4s" fill="freeze"/>
       <animate attributeName="height" from="0" to="36.36363636363637" begin="0.56s" dur="0.4s" fill="freeze"/>
     </rect>
-    <rect x="707" y="122.72727272727273" width="18" height="27.27272727272727" rx="3" fill="#006d32" opacity="0">
+    <rect x="707" y="148" width="18" height="2" rx="3" fill="#21262d" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.58s" dur="0.3s" fill="freeze"/>
-      <animate attributeName="y" from="150" to="122.72727272727273" begin="0.58s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="height" from="0" to="27.27272727272727" begin="0.58s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="y" from="150" to="148" begin="0.58s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="height" from="0" to="2" begin="0.58s" dur="0.4s" fill="freeze"/>
     </rect>
 
   <!-- Labels -->
     <text x="49.0" y="168" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">Jul</text>
-    <text x="49.0" y="180" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">06</text>
+    <text x="49.0" y="180" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">07</text>
     <text x="164.0" y="168" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">Jul</text>
-    <text x="164.0" y="180" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">11</text>
+    <text x="164.0" y="180" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">12</text>
     <text x="279.0" y="168" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">Jul</text>
-    <text x="279.0" y="180" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">16</text>
+    <text x="279.0" y="180" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">17</text>
     <text x="394.0" y="168" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">Jul</text>
-    <text x="394.0" y="180" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">21</text>
+    <text x="394.0" y="180" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">22</text>
     <text x="509.0" y="168" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">Jul</text>
-    <text x="509.0" y="180" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">26</text>
-    <text x="624.0" y="168" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">Jul</text>
-    <text x="624.0" y="180" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">31</text>
+    <text x="509.0" y="180" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">27</text>
+    <text x="624.0" y="168" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">Aug</text>
+    <text x="624.0" y="180" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">01</text>
 
 </svg>
