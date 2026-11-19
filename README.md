@@ -21,7 +21,7 @@ I build practical AI and full-stack applications, from thoughtful interfaces to 
 
 <p align="center"><img src="./assets/gargi-bot.svg" alt="Original iridescent pixel cat robot" width="152" /></p>
 
-<p align="center"><img src="./assets/profile-bento.svg?v=2" alt="Four illustrated cards about my work, values, interests, and selected projects" width="940" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/gaaarrrgiiiiiiiiiii/gaaarrrgiiiiiiiiiii/08145e2ac92b813061db41d82ed1b9057f65948b/assets/profile-bento.svg" alt="Four illustrated cards about my work, values, interests, and selected projects" width="940" /></p>
 
 ### Tech I work with
 
