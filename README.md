@@ -17,10 +17,11 @@
 
 # Hi, I'm Gargi
 
-<details>
-<summary><img align="right" src="./assets/cat-closed.png" alt="Closed-mouth pixel cat. Click to reveal its open-mouth version." width="150" />I build practical AI and full-stack applications, from thoughtful interfaces to reliable APIs. I like turning complex data into something people can understand and use, and I care about showing the evidence behind an answer. <sub>Click the cat to see it meow.</sub></summary>
-<p align="right"><img src="./assets/cat-open.png" alt="Open-mouth pixel cat" width="150" /></p>
-</details>
+<img align="right" src="./assets/gargi-intro.gif" alt="Animated pixel character saying Hi, I'm Gargi" width="230" />
+
+I build practical AI and full-stack applications, from thoughtful interfaces to reliable APIs. I like turning complex data into something people can understand and use, and I care about showing the evidence behind an answer.
+
+<br clear="right" />
 
 ### Tech I work with
 
@@ -39,3 +40,4 @@
 <sub>This panel reads GitHub activity when the page loads. Earlier automated profile commits may be part of the streak history; scheduled profile updates are now disabled.</sub>
 
 [LinkedIn](https://www.linkedin.com/in/gargi-thapa-089767294/) · [All repositories](https://github.com/gaaarrrgiiiiiiiiiii?tab=repositories)
+
