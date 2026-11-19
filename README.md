@@ -19,6 +19,10 @@
 
 I build practical AI and full-stack applications, from thoughtful interfaces to reliable APIs. I like turning complex data into something people can understand and use, and I care about showing the evidence behind an answer.
 
+<p align="center"><img src="./assets/gargi-bot.svg" alt="Original pixel robot with a glowing code screen" width="152" /></p>
+
+**On my radar:** evidence-aware AI · dependable backend systems · useful product design
+
 ### Tech I work with
 
 ![Python, FastAPI, TypeScript, React, Next.js, PostgreSQL, MongoDB, Redis, Docker, AWS, and Flask](https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,postgres,mongodb,redis,docker,aws,flask&perline=11&theme=dark)
