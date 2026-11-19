@@ -17,28 +17,17 @@
 
 # Hi, I'm Gargi
 
-I build practical AI products and full-stack applications, with a focus on useful interfaces, reliable backends, and clear explanations of what the system is doing.
-
-| What I do | What I care about |
-| --- | --- |
-| Build end-to-end applications, from interface to API and deployment. | Making complex data easier to understand and act on. |
-| Explore AI systems that can show the evidence behind an answer. | Shipping working demos and documenting the decisions behind them. |
+I build practical AI and full-stack applications, from thoughtful interfaces to reliable APIs. I like turning complex data into something people can understand and use, and I care about showing the evidence behind an answer.
 
 ### Tech I work with
 
-| Area | Tools |
-| --- | --- |
-| Frontend | TypeScript, React, Next.js, JavaScript |
-| Backend & data | Python, FastAPI, Flask, PostgreSQL, MongoDB, Redis |
-| Delivery | Docker, Vercel, Render, AWS |
+![Python, FastAPI, TypeScript, React, Next.js, PostgreSQL, MongoDB, Redis, Docker, AWS, and Flask](https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,postgres,mongodb,redis,docker,aws,flask&perline=11&theme=dark)
 
 ### Featured projects
 
-| Project | What it does | Explore |
-| --- | --- | --- |
-| **Driftt** | A market watchlist that remembers what changed since your last visit and brings important changes to the top. | [Live demo](https://driftt-frontend.onrender.com/) · [Code](https://github.com/gaaarrrgiiiiiiiiiii/Driftt) |
-| **UserAnalytics** | A self-hosted event tracker with a dashboard for sessions, clicks, and page activity. | [Live dashboard](https://user-analytics-dashboard-silk.vercel.app/) · [Code](https://github.com/gaaarrrgiiiiiiiiiii/userAnalytics) |
-| **Tech Launchpad** | An interactive, multi-page redesign of an MBA placement programs site. | [Live site](https://tech-launchpad-ten.vercel.app/) · [Code](https://github.com/gaaarrrgiiiiiiiiiii/techLaunchpad) |
+- **[Driftt](https://github.com/gaaarrrgiiiiiiiiiii/Driftt)** — a market watchlist that highlights what changed since your last visit.
+- **[Pramana](https://github.com/gaaarrrgiiiiiiiiiii/Pramana)** — an investigative assistant that connects its findings to source evidence.
+- **[AURORA](https://github.com/gaaarrrgiiiiiiiiiii/AURORA)** — a radiology report assistance project focused on auditable findings.
 
 ### Coding streak
 
