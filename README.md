@@ -1,8 +1,8 @@
-```text
+<pre align="center">
   ____    _    ____   ____ ___
  / ___|  / \  |  _ \ / ___|_ _|
 | |  _  / _ \ | |_) | |  _ | |
-| |_| |/ ___ \|  _ <| |_| || |
+| |_| |/ ___ \|  _ &lt;| |_| || |
  \____/_/   \_\_| \_\\____|___|
 
         .       *            .
@@ -12,18 +12,19 @@
    /  \/    \/  \ /    \_/    \
   /_____________________________\
 
-  > build something useful
-```
+  &gt; build something useful
+</pre>
 
 # Hi, I'm Gargi
 
-I build practical AI and full-stack applications, from thoughtful interfaces to reliable APIs. I like turning complex data into something people can understand and use, and I care about showing the evidence behind an answer.
-
-<p align="center"><img src="./assets/gargi-bot.svg" alt="Original pixel robot with a glowing code screen" width="152" /></p>
+<details>
+<summary><img align="right" src="./assets/cat-closed.png" alt="Closed-mouth pixel cat. Click to reveal its open-mouth version." width="150" />I build practical AI and full-stack applications, from thoughtful interfaces to reliable APIs. I like turning complex data into something people can understand and use, and I care about showing the evidence behind an answer. <sub>Click the cat to see it meow.</sub></summary>
+<p align="right"><img src="./assets/cat-open.png" alt="Open-mouth pixel cat" width="150" /></p>
+</details>
 
 ### Tech I work with
 
-![Python, FastAPI, TypeScript, React, Next.js, PostgreSQL, MongoDB, Redis, Docker, AWS, and Flask](https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,postgres,mongodb,redis,docker,aws,flask&perline=11&theme=dark)
+![Python, C++, FastAPI, React, Next.js, Flask, PostgreSQL, MySQL, MongoDB, Supabase, Redis, Docker, Kubernetes, Nginx, AWS, GitHub, Jenkins, Grafana, and Prometheus](https://skillicons.dev/icons?i=python,cpp,fastapi,react,nextjs,flask,postgres,mysql,mongodb,supabase,redis,docker,kubernetes,nginx,aws,github,jenkins,grafana,prometheus&perline=10&theme=dark)
 
 ### Featured projects
 
@@ -33,7 +34,7 @@ I build practical AI and full-stack applications, from thoughtful interfaces to 
 
 ### Coding streak
 
-![GitHub activity streak for Gargi](https://streak-stats.demolab.com/?user=gaaarrrgiiiiiiiiiii&theme=transparent&hide_border=true&hide_total_contributions=true&timezone=Asia%2FKolkata)
+<p align="center"><img src="https://streak-stats.demolab.com/?user=gaaarrrgiiiiiiiiiii&amp;theme=transparent&amp;hide_border=true&amp;hide_total_contributions=true&amp;timezone=Asia%2FKolkata" alt="GitHub activity streak for Gargi" /></p>
 
 <sub>This panel reads GitHub activity when the page loads. Earlier automated profile commits may be part of the streak history; scheduled profile updates are now disabled.</sub>
 
