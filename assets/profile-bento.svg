@@ -41,7 +41,7 @@
   <text x="498" y="48" fill="#8ae6e9" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">02 / MY NORTH STAR</text>
   <text x="498" y="96" fill="#f7f7ff" font-family="Arial, sans-serif" font-size="27" font-weight="800">Show the evidence.</text>
   <text x="498" y="127" fill="#cad5df" font-family="Arial, sans-serif" font-size="15">Answers should lead back to their sources.</text>
-  <path d="M820 57 L852 76 L820 95 M789 57 L757 76 L789 95" fill="none" stroke="url(#warm)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".88"/>
+  <path d="M875 57 L890 76 L875 95 M859 57 L844 76 L859 95" fill="none" stroke="url(#warm)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".88"/>
 
   <rect x="474" y="184" width="215" height="152" rx="20" fill="#1b223b" stroke="#454a77"/>
   <text x="498" y="216" fill="#bda6ff" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">03 / EXPLORING</text>
