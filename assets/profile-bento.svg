@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="354" viewBox="0 0 940 354" role="img" aria-label="Bento grid about Gargi: building useful AI, source-aware answers, backend systems, and selected projects">
+  <defs>
+    <linearGradient id="main" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#222147"/>
+      <stop offset="0.56" stop-color="#151a34"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="warm" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff6a9a"/>
+      <stop offset="0.5" stop-color="#a076ff"/>
+      <stop offset="1" stop-color="#69e6ef"/>
+    </linearGradient>
+    <linearGradient id="cool" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#132f49"/>
+      <stop offset="1" stop-color="#17223f"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="938" height="352" rx="24" fill="#0b1020" stroke="#303853" stroke-width="2"/>
+
+  <rect x="18" y="18" width="440" height="318" rx="20" fill="url(#main)" stroke="#48466f"/>
+  <circle cx="393" cy="87" r="89" fill="none" stroke="#9b80ee" stroke-opacity=".18" stroke-width="1.5"/>
+  <circle cx="393" cy="87" r="63" fill="none" stroke="#72e4ea" stroke-opacity=".26" stroke-width="1.5"/>
+  <circle cx="393" cy="87" r="36" fill="none" stroke="#72e4ea" stroke-opacity=".52" stroke-width="2"/>
+  <circle cx="393" cy="87" r="7" fill="#72e4ea"/>
+  <circle cx="334" cy="36" r="4" fill="#ff88aa"/>
+  <circle cx="421" cy="148" r="3" fill="#b797ff"/>
+  <text x="44" y="60" fill="#9edbe8" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">01 / THE WORK</text>
+  <text x="44" y="124" fill="#f5f5ff" font-family="Arial, sans-serif" font-size="40" font-weight="800">Useful AI.</text>
+  <text x="44" y="171" fill="#f5f5ff" font-family="Arial, sans-serif" font-size="40" font-weight="800">Clear thinking.</text>
+  <text x="44" y="210" fill="#c9cfdf" font-family="Arial, sans-serif" font-size="17">Interfaces, APIs, and systems that make</text>
+  <text x="44" y="235" fill="#c9cfdf" font-family="Arial, sans-serif" font-size="17">complex information easier to use.</text>
+  <rect x="44" y="277" width="69" height="29" rx="14" fill="#292b53" stroke="#6f69b6"/>
+  <text x="64" y="297" fill="#f2eaff" font-family="Arial, sans-serif" font-size="13" font-weight="700">AI</text>
+  <rect x="123" y="277" width="69" height="29" rx="14" fill="#1c3946" stroke="#4d9caa"/>
+  <text x="142" y="297" fill="#dcfbff" font-family="Arial, sans-serif" font-size="13" font-weight="700">APIs</text>
+  <rect x="202" y="277" width="95" height="29" rx="14" fill="#3d2a48" stroke="#b16b9c"/>
+  <text x="220" y="297" fill="#ffe4f1" font-family="Arial, sans-serif" font-size="13" font-weight="700">Product</text>
+
+  <rect x="474" y="18" width="448" height="150" rx="20" fill="url(#cool)" stroke="#35566b"/>
+  <text x="498" y="48" fill="#8ae6e9" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">02 / MY NORTH STAR</text>
+  <text x="498" y="96" fill="#f7f7ff" font-family="Arial, sans-serif" font-size="27" font-weight="800">Show the evidence.</text>
+  <text x="498" y="127" fill="#cad5df" font-family="Arial, sans-serif" font-size="15">Answers should lead back to their sources.</text>
+  <path d="M820 57 L852 76 L820 95 M789 57 L757 76 L789 95" fill="none" stroke="url(#warm)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".88"/>
+
+  <rect x="474" y="184" width="215" height="152" rx="20" fill="#1b223b" stroke="#454a77"/>
+  <text x="498" y="216" fill="#bda6ff" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">03 / EXPLORING</text>
+  <text x="498" y="259" fill="#f5f5ff" font-family="Arial, sans-serif" font-size="25" font-weight="800">Reliable</text>
+  <text x="498" y="289" fill="#f5f5ff" font-family="Arial, sans-serif" font-size="25" font-weight="800">backends.</text>
+  <path d="M621 302 H654 M629 310 H662" stroke="#af8cff" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+
+  <rect x="705" y="184" width="217" height="152" rx="20" fill="#2a1c36" stroke="#685071"/>
+  <text x="729" y="216" fill="#ffacc8" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">04 / SELECTED WORK</text>
+  <text x="729" y="255" fill="#f7f5ff" font-family="Arial, sans-serif" font-size="21" font-weight="700">Driftt</text>
+  <text x="729" y="281" fill="#f7f5ff" font-family="Arial, sans-serif" font-size="21" font-weight="700">Pramana</text>
+  <text x="729" y="307" fill="#f7f5ff" font-family="Arial, sans-serif" font-size="21" font-weight="700">AURORA</text>
+  <circle cx="886" cy="291" r="15" fill="url(#warm)" opacity=".92"/>
+</svg>
