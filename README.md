@@ -17,11 +17,9 @@
 
 # Hi, I'm Gargi
 
-<img align="right" src="./assets/gargi-intro.gif" alt="Animated pixel character saying Hi, I'm Gargi" width="230" />
+<img align="right" src="./assets/gargi-intro.gif" alt="Animated pixel character saying Hi, I'm Gargi" width="170" hspace="16" />
 
 I build practical AI and full-stack applications, from thoughtful interfaces to reliable APIs. I like turning complex data into something people can understand and use, and I care about showing the evidence behind an answer.
-
-<br clear="right" />
 
 ### Tech I work with
 
@@ -40,4 +38,8 @@ I build practical AI and full-stack applications, from thoughtful interfaces to 
 <sub>This panel reads GitHub activity when the page loads. Earlier automated profile commits may be part of the streak history; scheduled profile updates are now disabled.</sub>
 
 [LinkedIn](https://www.linkedin.com/in/gargi-thapa-089767294/) · [All repositories](https://github.com/gaaarrrgiiiiiiiiiii?tab=repositories)
+
+
+
+
 
