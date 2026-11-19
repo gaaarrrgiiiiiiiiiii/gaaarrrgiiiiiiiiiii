@@ -19,9 +19,9 @@
 
 I build practical AI and full-stack applications, from thoughtful interfaces to reliable APIs. I like turning complex data into something people can understand and use, and I care about showing the evidence behind an answer.
 
-<p align="center"><img src="./assets/gargi-bot.svg" alt="Original pixel robot with a glowing code screen" width="152" /></p>
+<p align="center"><img src="./assets/gargi-bot.svg" alt="Original iridescent pixel cat robot" width="152" /></p>
 
-**On my radar:** evidence-aware AI · dependable backend systems · useful product design
+<p align="center"><img src="./assets/profile-bento.svg" alt="Four illustrated cards about my work, values, interests, and selected projects" width="940" /></p>
 
 ### Tech I work with
 
