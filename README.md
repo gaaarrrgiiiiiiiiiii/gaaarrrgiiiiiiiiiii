@@ -1,18 +1,12 @@
+<p align="center"><img src="./assets/neon-hands-banner.png" alt="Neon wireframe and colorful hands reaching toward each other" width="100%" /></p>
+
+<!-- Rendered with FIGlet.js using the Slant font. -->
 <pre align="center">
-  ____    _    ____   ____ ___
- / ___|  / \  |  _ \ / ___|_ _|
-| |  _  / _ \ | |_) | |  _ | |
-| |_| |/ ___ \|  _ &lt;| |_| || |
- \____/_/   \_\_| \_\\____|___|
-
-        .       *            .
-    *        .       *
-         /\        /\     /\
-    /\  /  \  /\   /  \   /  \
-   /  \/    \/  \ /    \_/    \
-  /_____________________________\
-
-  &gt; build something useful
+   _________    ____  __________
+  / ____/   |  / __ \/ ____/  _/
+ / / __/ /| | / /_/ / / __ / /
+/ /_/ / ___ |/ _, _/ /_/ // /
+\____/_/  |_/_/ |_|\____/___/
 </pre>
 
 # Hi, I'm Gargi
