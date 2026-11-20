@@ -27,9 +27,17 @@ I build practical AI and full-stack applications, from thoughtful interfaces to 
 
 ### Featured projects
 
-- **[Driftt](https://github.com/gaaarrrgiiiiiiiiiii/Driftt)** — a market watchlist that highlights what changed since your last visit.
-- **[Pramana](https://github.com/gaaarrrgiiiiiiiiiii/Pramana)** — an investigative assistant that connects its findings to source evidence.
-- **[AURORA](https://github.com/gaaarrrgiiiiiiiiiii/AURORA)** — a radiology report assistance project focused on auditable findings.
+**[Driftt](https://github.com/gaaarrrgiiiiiiiiiii/Driftt)** — a market watchlist that highlights what changed since your last visit.
+
+<a href="https://github.com/gaaarrrgiiiiiiiiiii/Driftt"><img src="./assets/driftt-ui.png" alt="Driftt demo access screen" width="420" /></a>
+
+<sub>Demo access screen</sub>
+
+**[Pramana](https://github.com/gaaarrrgiiiiiiiiiii/Pramana)** — an investigative assistant that connects its findings to source evidence.
+
+<a href="https://github.com/gaaarrrgiiiiiiiiiii/Pramana"><img src="./assets/pramana-ui.png" alt="Pramana investigative copilot landing page" width="560" /></a>
+
+<sub>Project landing page</sub>
 
 ### Coding streak
 
