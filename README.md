@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/neon-hands-banner.png" alt="Neon wireframe and colorful hands reaching toward each other" width="100%" /></p>
+<p align="center"><img src="./assets/neon-hands-banner-blue.png" alt="Neon wireframe and colorful hands reaching toward each other on a dark blue background" width="100%" /></p>
 
 # Hi, I'm Gargi
 
