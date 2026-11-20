@@ -1,14 +1,5 @@
 <p align="center"><img src="./assets/neon-hands-banner.png" alt="Neon wireframe and colorful hands reaching toward each other" width="100%" /></p>
 
-<!-- Rendered with FIGlet.js using the Slant font. -->
-<pre align="center">
-   _________    ____  __________
-  / ____/   |  / __ \/ ____/  _/
- / / __/ /| | / /_/ / / __ / /
-/ /_/ / ___ |/ _, _/ /_/ // /
-\____/_/  |_/_/ |_|\____/___/
-</pre>
-
 # Hi, I'm Gargi
 
 <img align="right" src="./assets/gargi-intro.gif" alt="Animated pixel character saying Hi, I'm Gargi" width="170" hspace="16" />
