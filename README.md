@@ -26,9 +26,9 @@ I build practical AI and full-stack applications, from thoughtful interfaces to 
 
 <h2 align="center"><img src="./assets/section-dino.svg" width="24" height="24" alt="" /> Coding streak</h2>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=gaaarrrgiiiiiiiiiii&amp;theme=transparent&amp;hide_border=true&amp;hide_total_contributions=true&amp;timezone=Asia%2FKolkata" alt="GitHub activity streak for Gargi" /></p>
+<p align="center"><a href="https://streak-stats.demolab.com/?user=gaaarrrgiiiiiiiiiii&amp;theme=transparent&amp;hide_border=true&amp;hide_total_contributions=true&amp;timezone=Asia%2FKolkata"><img src="https://streak-stats.demolab.com/?user=gaaarrrgiiiiiiiiiii&amp;theme=transparent&amp;hide_border=true&amp;hide_total_contributions=true&amp;timezone=Asia%2FKolkata&amp;v=20261121" alt="GitHub activity streak for Gargi" /></a></p>
 
-<sub>This panel reads GitHub activity when the page loads. Earlier automated profile commits may be part of the streak history; scheduled profile updates are now disabled.</sub>
+<sub>GitHub may cache this image for several hours. Click the card for the latest available streak. Earlier automated profile commits may be part of the streak history; scheduled profile updates are disabled.</sub>
 
 [LinkedIn](https://www.linkedin.com/in/gargi-thapa-089767294/) · [All repositories](https://github.com/gaaarrrgiiiiiiiiiii?tab=repositories)
 
